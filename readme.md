@@ -6,3 +6,4 @@
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
+ ![Logs](image.png)
